@@ -5,6 +5,10 @@
 # data. Only data for a region around the SNP is considered, limiting
 # the resources needed.
 
+# To run this script, call it with the RS-number as argument, e.g.:
+#
+# bash validate_rs.sh rs193922259
+
 # Variables for the data source and region
 ENSEMBL="https://ftp.ensembl.org/pub/release-113"
 REGION="7:44000000-44500000"
