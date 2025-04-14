@@ -26,7 +26,7 @@ to generate synthetic data for this.
 
 To begin with, they are interested in certain variants of the *GCK*
 gene encoding glucokinase.  Variants in *GCK* are known to cause both
-hyper- and hypoglycemia.  Heterozygous inactivating mutations in *GCK*
+hyper- and hypoglycaemia.  Heterozygous inactivating mutations in *GCK*
 may cause MODY, while homozygous inactivating mutations in *GCK* may
 result in more severe phenotypes.  An example of a rare variant of
 interest for this project is [rs193922259][1] that results in a codon
@@ -66,7 +66,7 @@ reference files.  You don't need to download these reference files, as
 they're essentially just "more of the same" compared to the files that
 are provided.  However, the script knows how to download the necessary
 reference files and derive the provided files as well as some
-additonal files that are not provided, but only made the first time
+additional files that are not provided, but only made the first time
 the script is run.
 
 
@@ -78,7 +78,7 @@ Look at the `validate_rs.sh` script and the provided files to get a
 high-level overview of how they relate to each other and what purposes
 they serve.
 
-### 2. Prepare yourself for questions your expect at the meeting.
+### 2. Prepare for questions you expect at the meeting.
 
 Try to figure out why the variant in *HNF1A* doesn't give "success" as
 output.  It may also be a good idea to know exactly which
