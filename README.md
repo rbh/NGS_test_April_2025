@@ -17,12 +17,13 @@ the company.
 
 The company plans to offer better treatments to patients based on the
 patients' NGS data.  For this to be successful, they need a robust
-workflow for analysing the NGS data, and there are certain rare, but
-important, genetic variants that they need to document will be found
-by their workflow.  As such patient data is not only rare, but also
-highly sensitive, the company struggles to find real data that can be
-used for this documentation/validation.  They are therefore exploring
-to generate synthetic data for this.
+workflow for analysing the NGS data.  There are certain rare genetic
+variants that are particularly important, and the company needs to be
+completely sure that the workflow will find these variants.  As such
+patient data is not only rare, but also highly sensitive, the company
+struggles to find real data that can be used for this.  They are
+therefore exploring generating synthetic data to validate that the
+workflow will find the rare variants.
 
 To begin with, they are interested in certain variants of the *GCK*
 gene encoding glucokinase.  Variants in *GCK* are known to cause both
